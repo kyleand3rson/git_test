@@ -1,3 +1,4 @@
 Adding text to this Hello World text file.
 Here is a second line added to this
 I'm going to add this to my Github now
+added a forth line to test out a commit message command
